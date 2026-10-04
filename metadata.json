@@ -1,0 +1,6 @@
+{
+  "name": "UNIVA - AI-Powered Career Guidance & Learning Platform",
+  "description": "UNIVA helps college students and fresh graduates discover suitable career paths, identify skill gaps, build personalized learning roadmaps, and discover opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
